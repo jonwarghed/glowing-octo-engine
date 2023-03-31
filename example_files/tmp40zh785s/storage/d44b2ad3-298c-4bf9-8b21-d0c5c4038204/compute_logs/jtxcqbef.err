@@ -1,0 +1,7 @@
+[32m2023-03-31 17:30:58 +0000[0m - dagster - [34mDEBUG[0m - __ASSET_JOB - d44b2ad3-298c-4bf9-8b21-d0c5c4038204 - 5622 - LOGS_CAPTURED - Started capturing logs in process (pid: 5622).
+[32m2023-03-31 17:30:58 +0000[0m - dagster - [34mDEBUG[0m - __ASSET_JOB - d44b2ad3-298c-4bf9-8b21-d0c5c4038204 - 5622 - hacker_news - STEP_START - Started execution of step "hacker_news".
+[32m2023-03-31 17:30:58 +0000[0m - dagster - [34mDEBUG[0m - __ASSET_JOB - d44b2ad3-298c-4bf9-8b21-d0c5c4038204 - 5622 - hacker_news - STEP_OUTPUT - Yielded output "result" of type "Any". (Type check passed).
+[32m2023-03-31 17:30:58 +0000[0m - dagster - [34mDEBUG[0m - __ASSET_JOB - d44b2ad3-298c-4bf9-8b21-d0c5c4038204 - hacker_news - Writing file at: /workspaces/glowing-octo-engine/example_files/tmp40zh785s/storage/hacker_news
+[32m2023-03-31 17:30:59 +0000[0m - dagster - [34mDEBUG[0m - __ASSET_JOB - d44b2ad3-298c-4bf9-8b21-d0c5c4038204 - 5622 - hacker_news - ASSET_MATERIALIZATION - Materialized value hacker_news.
+[32m2023-03-31 17:30:59 +0000[0m - dagster - [34mDEBUG[0m - __ASSET_JOB - d44b2ad3-298c-4bf9-8b21-d0c5c4038204 - 5622 - hacker_news - HANDLED_OUTPUT - Handled output "result" using IO manager "io_manager"
+[32m2023-03-31 17:30:59 +0000[0m - dagster - [34mDEBUG[0m - __ASSET_JOB - d44b2ad3-298c-4bf9-8b21-d0c5c4038204 - 5622 - hacker_news - STEP_SUCCESS - Finished execution of step "hacker_news" in 746ms.
