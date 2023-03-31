@@ -1,6 +1,0 @@
-[32m2023-03-31 18:13:42 +0000[0m - dagster - [34mDEBUG[0m - __ASSET_JOB - f0a6da86-bb1b-4e32-8754-0b0b418d5ce9 - 26572 - LOGS_CAPTURED - Started capturing logs in process (pid: 26572).
-[32m2023-03-31 18:13:42 +0000[0m - dagster - [34mDEBUG[0m - __ASSET_JOB - f0a6da86-bb1b-4e32-8754-0b0b418d5ce9 - 26572 - hacker_news - STEP_START - Started execution of step "hacker_news".
-[32m2023-03-31 18:13:42 +0000[0m - dagster - [34mDEBUG[0m - __ASSET_JOB - f0a6da86-bb1b-4e32-8754-0b0b418d5ce9 - 26572 - hacker_news - STEP_OUTPUT - Yielded output "result" of type "Any". (Type check passed).
-[32m2023-03-31 18:13:43 +0000[0m - dagster - [34mDEBUG[0m - __ASSET_JOB - f0a6da86-bb1b-4e32-8754-0b0b418d5ce9 - 26572 - hacker_news - ASSET_MATERIALIZATION - Materialized value hacker_news.
-[32m2023-03-31 18:13:43 +0000[0m - dagster - [34mDEBUG[0m - __ASSET_JOB - f0a6da86-bb1b-4e32-8754-0b0b418d5ce9 - 26572 - hacker_news - HANDLED_OUTPUT - Handled output "result" using IO manager "io_manager"
-[32m2023-03-31 18:13:43 +0000[0m - dagster - [34mDEBUG[0m - __ASSET_JOB - f0a6da86-bb1b-4e32-8754-0b0b418d5ce9 - 26572 - hacker_news - STEP_SUCCESS - Finished execution of step "hacker_news" in 1.01s.
